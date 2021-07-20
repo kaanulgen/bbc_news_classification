@@ -7,3 +7,6 @@ All rights, including copyright, in the content of the original articles are own
 - Class Labels: 5 (business, entertainment, politics, sport, tech)
 
 https://www.veribilimiokulu.com/derin-ogrenme-ile-bbc-haberlerinin-siniflandirilmasi/. (This article is written by Eyüp Kaan Ülgen in Turkish)
+
+
+Dataset links: http://mlg.ucd.ie/datasets/bbc.html
